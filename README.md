@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# User Management Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple web application for managing user details. It demonstrates how to integrate a frontend interface with a mock backend API (JSONPlaceholder) to perform basic CRUD operations.
+
+## 🚀 Live Demo
+🔗 [Deployed Application](https://user-management-dash-sable.vercel.app/)
+
+---
+
+## 📌 Features
+View Users – Fetches a list of users and displays them in a table.
+Add User – A form (always visible) to add new users.
+Edit User – Opens a popup modal with the selected user’s details for editing.
+Delete User – Removes a user from the list.
+Search & sort – Find users by first name, last name, email, or department.
+Pagination – Choose between 10, 25, 50, or 100 users per page.
+Error Handling – Displays messages when API calls fail.
+
+---
+
+🛠️ Tech Stack
+Frontend: React.js (with Hooks)
+HTTP Requests: Axios
+Styling: Plain CSS (no Bootstrap used)
+API: JSONPlaceholder(for mock data)
+
+
 
 ## Available Scripts
 
