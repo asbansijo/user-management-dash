@@ -8,13 +8,13 @@ This project is a simple web application for managing user details. It demonstra
 ---
 
 ## 📌 Features
--View Users – Fetches a list of users and displays them in a table.
--Add User – A form (always visible) to add new users.
+- View Users – Fetches a list of users and displays them in a table.
+-  Add User – A form (always visible) to add new users.
 -Edit User – Opens a popup modal with the selected user’s details for editing.
--Delete User – Removes a user from the list.
--Search & sort – Find users by first name, last name, email, or department.
--Pagination – Choose between 10, 25, 50, or 100 users per page.
--Error Handling – Displays messages when API calls fail.
+- Delete User – Removes a user from the list.
+- Search & sort – Find users by first name, last name, email, or department.
+- Pagination – Choose between 10, 25, 50, or 100 users per page.
+- Error Handling – Displays messages when API calls fail.
 
 ---
 
