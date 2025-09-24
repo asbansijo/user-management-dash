@@ -19,10 +19,10 @@ This project is a simple web application for managing user details. It demonstra
 ---
 
 🛠️ Tech Stack
-Frontend: React.js (with Hooks)
-HTTP Requests: Axios
-Styling: Plain CSS (no Bootstrap used)
-API: JSONPlaceholder(for mock data)
+- Frontend: React.js (with Hooks)
+- HTTP Requests: Axios
+- Styling: Plain CSS (no Bootstrap used)
+- API: JSONPlaceholder(for mock data)
 
 
 
